@@ -1,9 +1,1 @@
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-This is an awesome project.
+[OpenInfra project](https://udsleeds.github.io/openinfra/index.html) aims to research and add value to open transport infrastructure data — and OpenStreetMap data in particular — for use in transport planning. The outputs will include new insights, ideas and datasets, leading to a step change in the accessibility, utility and understanding of crowd source data for evidence-based decision making.
