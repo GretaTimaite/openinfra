@@ -1,0 +1,5 @@
+
+Greta Timaite, James Hulse, Robin Lovelace. **OSM for sustainable transport planning**. Proceedings of the Academic Track at State of the Map 2022, 2022. [PDF](https://zenodo.org/record/7004509) [Slides](https://2022.stateofthemap.org/attachments/CEMMTQ_sotm2022_slides_update_HxoiqCX.pdf)
+
+Greta Timaite, Robin Lovelace, Victoria Houlden. **The potential of OpenStreetMap for (accessible) active travel planning**. GISRUK Conference Proceedings, 2022. [PDF](https://doi.org/10.5281/zenodo.6408416) [Slides](https://zenodo.org/record/6607662) [GitHub](https://github.com/udsleeds/openinfra/tree/main/GISRUK_paper)
+
