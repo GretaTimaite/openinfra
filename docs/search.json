@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "openinfra",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThis is an awesome project."
+    "text": "OpenInfra project aims to research and add value to open transport infrastructure data — and OpenStreetMap data in particular — for use in transport planning. The outputs will include new insights, ideas and datasets, leading to a step change in the accessibility, utility and understanding of crowd source data for evidence-based decision making."
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,34 @@
     "href": "presentations.html",
     "title": "openinfra",
     "section": "",
-    "text": "sotm"
+    "text": "Hulse, J. and Timaite, G. (2022). Open access data for transport research: tools, modelling and simulation. Leeds Seminar Series. Video 1 Slides 1 Video 2 Slides 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "openinfra",
+    "section": "",
+    "text": "Greta Timaite, Robin Lovelace, Victoria Houlden. The potential of OpenStreetMap for (accessible) active travel planning. GISRUK Conference Proceedings, 2022. PDF Slides GitHub"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "openinfra",
+    "section": "",
+    "text": "Greta Timaite, James Hulse, Robin Lovelace (2022). OSM for sustainable transport planning: getting started. General Track at State of the Map 2022. Material"
+  },
+  {
+    "objectID": "guestbook.html",
+    "href": "guestbook.html",
+    "title": "openinfra",
+    "section": "",
+    "text": "Geospatial Data Science, IT University of Copenhagen."
+  },
+  {
+    "objectID": "guestbook.html#social-media",
+    "href": "guestbook.html#social-media",
+    "title": "openinfra",
+    "section": "Social Media",
+    "text": "Social Media"
   }
 ]
