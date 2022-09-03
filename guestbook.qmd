@@ -3,3 +3,5 @@
 [Geospatial Data Science](https://github.com/mszell/geospatialdatascience), IT University of Copenhagen.
 
 ## Social Media
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks! Tremendous help for my graduate thesis!</p>&mdash; Aulia Rahman Bachtiar (@AuliaRBachtiar) <a href="https://twitter.com/AuliaRBachtiar/status/1499074355913162752?ref_src=twsrc%5Etfw">March 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
